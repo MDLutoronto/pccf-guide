@@ -3,6 +3,12 @@ title: Appendix
 parent: PCCF Guide
 nav_order: 3
 layout: default
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2023-06-06
 ---
 
 Appendix
@@ -390,6 +396,6 @@ After the text has been entered, select all the text and click on the green tria
 
 <img src='{{ '/assets/images/PCCF_SPSS_002.png' | relative_url }}' alt='A pop-up titled: Syntax 1 - IBM SPSS Statistics Editor. On the left is a text box. All text is selected. In the toolbar the cursor highlights a green triangle button that will run the selection. ' title='' width='100%' height='561' />
 
-**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis) \| Tools: [R](https://mdlutoronto.github.io/tutorials-search/?tool=R), [SAS](https://mdlutoronto.github.io/tutorials-search/?tool=SAS), [SPSS](https://mdlutoronto.github.io/tutorials-search/?tool=SPSS) \| Data Format: [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R), [SAS](https://mdlutoronto.github.io/tutorials-search/?tool=SAS), [SPSS](https://mdlutoronto.github.io/tutorials-search/?tool=SPSS) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)
 
-**Date Created:** 2023\-06\-06 **Updated:** 2023\-07\-13
+

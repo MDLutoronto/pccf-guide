@@ -3,6 +3,12 @@ title: Part B. Enrich your dataset with census data
 parent: PCCF Guide
 nav_order: 2
 layout: default
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2023-06-06
 ---
 
 Part B. Enrich your dataset with census data
@@ -102,8 +108,7 @@ In this section of the guide, we will incorporate census data to the dataset cre
 
     <img src='{{ '/assets/images/PCCF_B_015.png' | relative_url }}' alt='Two screenshots. The one on the left lists the names of the columns for the 2016 Census Profile dataset. On the right is the PCCF_Merged.sav dataset in SPSS Variable view. The variables are now labelled as: PC; CTname; DAuid; SLI; Age; ProvCode; ProvName; CDCode; CDName; DAName; Income; ShelterCost; TotalPop; UniversityEd' title='' width='100%' height='442' />
 
-    Don’t forget to save your file when you are finished!
+    Don’t forget to save your file when you are finished!    
 
-**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis) \| Tools: [R](https://mdlutoronto.github.io/tutorials-search/?tool=R), [SAS](https://mdlutoronto.github.io/tutorials-search/?tool=SAS), [SPSS](https://mdlutoronto.github.io/tutorials-search/?tool=SPSS) \| Data Format: [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R), [SAS](https://mdlutoronto.github.io/tutorials-search/?tool=SAS), [SPSS](https://mdlutoronto.github.io/tutorials-search/?tool=SPSS) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)
 
-**Date Created:** 2023\-06\-06 **Updated:** 2023\-07\-13
