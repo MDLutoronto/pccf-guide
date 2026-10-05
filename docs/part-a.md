@@ -14,7 +14,7 @@ created_date: 2023-06-06
 Part A: Use the PCCF to assign standard geographic codes/names to your postal codes
 -----------------------------------------------------------------------------------
 
-1. Start with a dataset that includes postal code level data. Make sure you have a separate field for the postal code. You must have full 6\-digit postal codes to work with the standard PCCF file (if you have 3, 4 or 5 digits of the postal code, you can use the PCCF\+). For this tutorial, we will demonstrate using this [sample dataset](https://maps.library.utoronto.ca/workshops/PCCF/My_dataset.csv). It contains two columns, postal code (consisting of 50 randomly generated postal codes within Toronto) and age (consisting of 50 randomly generated values between 1 and 99\). As you work, imagine that this dataset represents the participants in a study you conducted. Or, use your own data.
+1. Start with a dataset that includes postal code level data. Make sure you have a separate field for the postal code. You must have full 6-digit postal codes to work with the standard PCCF file (if you have 3, 4 or 5 digits of the postal code, you can use the PCCF\+). For this tutorial, we will demonstrate using this [sample dataset](https://maps.library.utoronto.ca/workshops/PCCF/My_dataset.csv). It contains two columns, postal code (consisting of 50 randomly generated postal codes within Toronto) and age (consisting of 50 randomly generated values between 1 and 99\). As you work, imagine that this dataset represents the participants in a study you conducted. Or, use your own data.
 
     Download the sample dataset: <https://maps.library.utoronto.ca/workshops/PCCF/My_dataset.csv>
 
@@ -22,7 +22,7 @@ Part A: Use the PCCF to assign standard geographic codes/names to your postal co
 
 2. Bring your postal code data into SPSS. In this exercise, we will be loading in a csv file, but SPSS can accommodate many file types. If you run into difficulties loading your own data into SPSS, contact us for assistance.
 
-    Open SPSS on your computer. From the File menu, choose **Open \> Data**.
+    Open SPSS on your computer. From the File menu, choose **Open > Data**.
 
     <img src='{{ '/assets/images/PCCF_A_002.png' | relative_url }}' alt='On the toolbar at the top of the screen, Open is selected, followed by Data' title='' width='75%' height='689' />
 
@@ -32,11 +32,11 @@ Part A: Use the PCCF to assign standard geographic codes/names to your postal co
 
     The Text Import Wizard pops up. Our sample data is a very simple CSV file with only one column, so we can mostly just skip through this wizard without changing anything. (If you are loading your own dataset, make the appropriate choices for your dataset at each step).
 
-    For steps 1\-3, no changes are required. Select **Next**.
+    For steps 1-3, no changes are required. Select **Next**.
 
     For step 4, ensure Comma is selected and Space is not selected. Select **Next**.
 
-    For step 5, You will get a pop\-up that says it found invalid variable names. This is because spaces are not allowed in variable names (column headers) in SPSS. Select **OK** and the wizard will remove the space in our variable name for us (to ‘PostalCode’). Select **Next**.
+    For step 5, You will get a pop-up that says it found invalid variable names. This is because spaces are not allowed in variable names (column headers) in SPSS. Select **OK** and the wizard will remove the space in our variable name for us (to ‘PostalCode’). Select **Next**.
 
     <img src='{{ '/assets/images/PCCF_A_004.png' | relative_url }}' alt='A Text Wizard notification that says: Invalid variable names for this application have been found and changed.' title='' width='80%' height='156' />
 
@@ -52,7 +52,7 @@ Part A: Use the PCCF to assign standard geographic codes/names to your postal co
 
     Leave the file open in SPSS for now, we will return to it shortly.
 
-3. Download the PCCF dataset from the MDL website: [https://mdl.library.utoronto.ca/collections/numeric\-data/census\-canada/postal\-code\-conversion\-file](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/postal-code-conversion-file).
+3. Download the PCCF dataset from the MDL website: [https://mdlutoronto.github.io/pccf-guide/](https://mdlutoronto.github.io/pccf-guide/).
 
     Choose the census year of interest.
 
